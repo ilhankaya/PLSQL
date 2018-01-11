@@ -1,5 +1,4 @@
--- Description : The Oracle/PLSQL ASCIISTR function converts a string in any character set to an ASCII string using the database character set.
--- Syntax : ASCIISTR( string )
+-- The Oracle/PLSQL ASCIISTR function converts a string in any character set to an ASCII string using the database character set.
 
 select asciistr('A B C Ä Ê')
   from dual;

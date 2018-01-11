@@ -1,5 +1,4 @@
--- Description: The Oracle/PLSQL ASCII function returns the NUMBER code that represents the specified character.
--- Syntax : ASCII( single_character )
+-- ASCII function returns the number code of character expression
 
 select ascii('a')
   from dual;
