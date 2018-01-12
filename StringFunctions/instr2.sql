@@ -1,5 +1,6 @@
 -- Description : The Oracle/PLSQL INSTR2 function returns the location of a substring in a string, using UCS2 code points.
 -- Syntax : INSTR2( string, substring [, start_position [, th_appearance ] ] )
+-- CHAR, VARCHAR2, NCHAR, or NVARCHAR2
 
 -- S t r i n g   F u n  c  t  i  o  n  s
 -- 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
