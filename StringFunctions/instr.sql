@@ -1,5 +1,6 @@
 -- Description : The Oracle/PLSQL INSTR function returns the location of a substring in a string.
 -- Syntax : INSTR( string, substring [, start_position [, th_appearance ] ] )
+-- CHAR, VARCHAR2, NCHAR, NVARCHAR2, CLOB, or NCLOB
 
 -- H e l l o   W o r l  d
 -- 1 2 3 4 5 6 7 8 9 10 11
