@@ -97,7 +97,7 @@ select regexp_instr('Hello World'
   from dual;
 -- Return : 8
 
--- search first occurance 'or', return number of last character 
+-- search first occurance 'or', return number of first character after 'or' 
 select regexp_instr('Hello World'
                    ,'or'
                    ,1
